@@ -1,0 +1,18 @@
+00:00:00.556926 VirtualBox GUI VM Selector Window 6.1.22 r144080 win.amd64 (Apr 28 2021 17:23:11) release log
+00:00:00.556928 Log opened 2021-05-13T12:23:08.157952600Z
+00:00:00.556929 Build Type: release
+00:00:00.556932 OS Product: Windows 10
+00:00:00.556933 OS Release: 10.0.18362
+00:00:00.556933 OS Service Pack: 
+00:00:00.569690 DMI Product Name: HP Pavilion x360 Convertible 14-dh0xxx
+00:00:00.572579 DMI Product Version: Type1ProductConfigId
+00:00:00.572597 Firmware type: UEFI
+00:00:00.572702 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.572713 Host RAM: 8013MB (7.8GB) total, 2074MB (2.0GB) available
+00:00:00.572716 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.572717 Process ID: 1636
+00:00:00.572717 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.572874 Qt version: 5.6.2
+00:00:00.588565 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.588595 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.108745 refreshCertificates/#3: Found 1/87 SSL certs we/you trust (previously 0/0).

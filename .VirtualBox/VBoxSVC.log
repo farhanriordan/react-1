@@ -1,0 +1,130 @@
+00:00:00.001557 main     VirtualBox COM Server 6.1.22 r144080 win.amd64 (Apr 28 2021 17:23:11) release log
+00:00:00.001569 main     Log opened 2021-05-13T12:23:07.895835300Z
+00:00:00.001569 main     Build Type: release
+00:00:00.001590 main     OS Product: Windows 10
+00:00:00.001591 main     OS Release: 10.0.18362
+00:00:00.001592 main     OS Service Pack: 
+00:00:00.018567 main     DMI Product Name: HP Pavilion x360 Convertible 14-dh0xxx
+00:00:00.027051 main     DMI Product Version: Type1ProductConfigId
+00:00:00.027082 main     Firmware type: UEFI
+00:00:00.027180 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.027229 main     Host RAM: 8013MB (7.8GB) total, 2101MB (2.0GB) available
+00:00:00.027241 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.027241 main     Process ID: 8412
+00:00:00.027242 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.096626          VirtualBox: object creation starts
+00:00:00.096982          Home directory: 'C:\Users\rio\.VirtualBox'
+00:00:00.097087          Installed Drivers:
+00:00:00.101201            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.22.44080)
+00:00:00.101510            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.22.44080)
+00:00:00.101833            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.22.44080)
+00:00:00.102153            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.22.44080)
+00:00:00.104491          usbLibGetDevices: Starting USB device enumeration
+00:00:00.107160          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:00.107202          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.107245          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.108721          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.108976          USB: Unknown USB device detected (idVendor: 0x05c8, idProduct: 0x03d3)
+00:00:00.109017          USB: Unknown USB device detected (idVendor: 0x06cb, idProduct: 0x00cb)
+00:00:00.109057          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0xb00a)
+00:00:00.140600          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.145358          HostDnsMonitor: initializing
+00:00:00.153107          HostDnsMonitor: updating information
+00:00:00.153177          HostDnsMonitor: old information
+00:00:00.153178            no server entries
+00:00:00.153179            no domain set
+00:00:00.153179            no search string entries
+00:00:00.153180          HostDnsMonitor: new information
+00:00:00.153180            server 1: 192.168.100.1
+00:00:00.153181            no domain set
+00:00:00.153181            no search string entries
+00:00:00.231029          VD: VDInit finished with VINF_SUCCESS
+00:00:00.232842          VirtualBox: object created
+00:00:10.604567          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:10.618456          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:15.321657          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:00:15.342121          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:15.356154          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:15.370036          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:15.384905          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:15.399538          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:25.491085 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:25.493850 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:25.493978 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:25.494109 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:25.494355 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:25.980767 SVCHelper Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:25.992675 SVCHelper Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:26.004951 SVCHelper Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:26.014110 SVCHelper Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:26.023502 SVCHelper Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:26.177343          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:00:26.335980          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:00:26.492009          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:00:26.791403 dns-monitor HostDnsMonitor: updating information
+00:00:26.791448 dns-monitor HostDnsMonitor: unchanged
+00:00:28.321122          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:28.461548          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:00:28.604627          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:00:28.616890          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:28.626248          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:28.634230          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:28.641730          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:28.649574          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:30.231182 dns-monitor HostDnsMonitor: updating information
+00:00:30.231226 dns-monitor HostDnsMonitor: unchanged
+00:00:39.873937          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:00:43.173058 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:00:43.175559 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:00:43.175686 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:43.175805 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:43.176030 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:02:20.227566 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:02:20.234643 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:02:20.234868 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:02:20.235251 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:02:37.541045          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:02:37.676813          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:02:37.686708          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={The host network interface named 'VirtualBox Host-Only Ethernet Adapter #2' could not be found}, preserve=false aResultDetail=0
+00:02:46.084816 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:02:46.087367 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:02:46.087499 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:02:46.087632 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:02:46.087882 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:02:46.796024 SVCHelper Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:46.808508 SVCHelper Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:46.817245 SVCHelper Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:46.827427 SVCHelper Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:46.837835 SVCHelper Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:47.037258          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:02:47.258327          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:02:47.341426 dns-monitor HostDnsMonitor: updating information
+00:02:47.341460 dns-monitor HostDnsMonitor: unchanged
+00:02:47.415019          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:02:49.839124          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:49.993907          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:02:50.153170          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:02:50.166364          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:50.178012          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:50.189701          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:50.201332          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:50.218710          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:51.745424 dns-monitor HostDnsMonitor: updating information
+00:02:51.745476 dns-monitor HostDnsMonitor: unchanged
+00:03:00.800500          netIfIsWireless: CreateFile on '\\.\{83F35DB4-AD39-4C55-B5A9-868F6791B797}' failed with rcWin=2 (0x2) - ignoring
+00:03:03.266479 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:03:03.269143 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 4
+00:03:03.269331 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:03:03.269530 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&1d3af1a2&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:03:03.269813 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:07:02.148356          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:02.155822          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:02.165675          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:02.172103          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:02.178608          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:02.186434          Saving settings file "C:\Users\rio\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:07.705561 main     VirtualBox: object deletion starts
+00:07:07.706504 main     HostDnsMonitor: shutting down ...
+00:07:07.706594 main     HostDnsMonitor: shut down
+00:07:07.708703 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:07:07.709517 main     VirtualBox: object deleted

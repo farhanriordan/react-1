@@ -1,0 +1,8 @@
+[user]
+	email = farhanriordan@gmail.com
+	name = farhanriordan
+[credential]
+	helper = erase
+[core]
+	editor = \"D:\\Program Files\\Microsoft VS Code\\bin\\code\" --wait
+	longpaths = true
